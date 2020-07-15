@@ -1,13 +1,16 @@
 import React from "react";
-import { View, Text, Image } from "react-native";
+import { View, Text, Image, TouchableOpacity } from "react-native";
 import { AllHtmlEntities } from "html-entities";
 import styles from "./Styles";
 
 const entities = new AllHtmlEntities();
 
-const RedditArticleItem = ({ article }) => {
+const RedditArticleItem = ({ article, goToArticle }) => {
   return (
-    <View style={styles.container}>
+    <TouchableOpacity
+      style={styles.container}
+      onPress={() => goToArticle(article)}
+    >
       {!article.thumbnail || article.thumbnail === "" ? (
         <View style={styles.noImage} />
       ) : (
@@ -19,7 +22,7 @@ const RedditArticleItem = ({ article }) => {
         />
       )}
       <Text style={styles.title}>{entities.decode(article.title)}</Text>
-    </View>
+    </TouchableOpacity>
   );
 };
 
