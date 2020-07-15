@@ -11,6 +11,11 @@ function* navigate({ payload }) {
         },
       })
     );
+    payload.navigation.setParams({
+      routeParams: {
+        ...(!payload.routeParams ? {} : payload.routeParams),
+      },
+    });
   } catch (error) {
     console.log("EXECUTION_ERROR: ", error);
   }

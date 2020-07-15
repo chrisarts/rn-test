@@ -1,14 +1,15 @@
 import React from "react";
-import { View, Text } from "react-native";
-import { useNavigation } from "@react-navigation/native";
+import MediaEmbedArticle from "../../components/MediaEmbedArticle/MediaEmbedArticle";
 
 const ArticleScreen = ({ route }) => {
-  const navigation = useNavigation();
-  console.log("Route: ", route);
+  console.log(
+    "ROUTE_PARAMS: ",
+    route.params.routeParams
+  );
   return (
-    <View>
-      <Text>ARTICLE SCREEN...</Text>
-    </View>
+    <MediaEmbedArticle
+      url={route.params.routeParams.url}
+    />
   );
 };
 

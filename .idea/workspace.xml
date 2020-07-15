@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5f89e8-87af-44ca-a09b-43ff2eb5b662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/actions/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MediaEmbedArticle/MediaEmbedArticle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/sagas/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/New/New.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/New/New.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594692876899</updated>
-      <workItem from="1594692882079" duration="33822000" />
+      <workItem from="1594692882079" duration="36908000" />
     </task>
     <servers />
   </component>
@@ -72,13 +71,13 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594794962173" />
-    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594803205591">
+    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594847008956">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594803205591" />
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594802944937">
+    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594847008956" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594847719931">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594802944937" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594847719931" />
   </component>
 </project>
