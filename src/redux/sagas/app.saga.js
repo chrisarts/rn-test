@@ -7,11 +7,13 @@ function* navigate({ payload }) {
     payload.navigation.dispatch(
       StackActions.push(payload.route, {
         routeParams: {
+          title: payload.title ? payload.title : "asd",
           ...(!payload.routeParams ? {} : payload.routeParams),
         },
       })
     );
     payload.navigation.setParams({
+      title: payload.title ? payload.title : "asd",
       routeParams: {
         ...(!payload.routeParams ? {} : payload.routeParams),
       },

@@ -18,7 +18,13 @@ const Router = () => {
             headerTitleAlign: "center",
           }}
         />
-        <Stack.Screen name="Article" component={ArticleScreen} />
+        <Stack.Screen
+          name="Article"
+          component={ArticleScreen}
+          options={({ route }) => ({
+            title: route.params.routeParams.title,
+          })}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );

@@ -8,7 +8,7 @@ import { useNavigation } from "@react-navigation/native";
 import styles from "./Styles";
 import ListEmpty from "../../components/ListEmpty/ListEmpty";
 
-const NewScreen = () => {
+const NewScreen = (props) => {
   const dispatch = useDispatch();
   const reddit = useSelector((state) => state.reddit);
   const navigation = useNavigation();
