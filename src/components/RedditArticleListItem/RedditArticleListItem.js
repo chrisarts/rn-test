@@ -1,5 +1,7 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { View, Text, Image, TouchableOpacity } from "react-native";
+import moment from "moment";
 import { AllHtmlEntities } from "html-entities";
 import styles from "./Styles";
 
@@ -21,9 +23,33 @@ const RedditArticleItem = ({ article, goToArticle }) => {
           }}
         />
       )}
-      <Text style={styles.title}>{entities.decode(article.title)}</Text>
+      <View style={styles.articleDescriptions}>
+        <Text style={styles.date}>
+          {moment(article.created * 1000).fromNow()}
+        </Text>
+        <Text style={styles.title}>{entities.decode(article.title)}</Text>
+        <View style={styles.aboutDescription}>
+          <Text style={styles.littleDescriptionText}>{article.author}</Text>
+          <Text style={styles.littleDescriptionText}>
+            Score: {article.score}
+          </Text>
+          <Text style={styles.littleDescriptionText}>
+            {article.num_comments} comments
+          </Text>
+        </View>
+      </View>
     </TouchableOpacity>
   );
+};
+
+RedditArticleItem.propTypes = {
+  article: PropTypes.shape({
+    created: PropTypes.number,
+    author: PropTypes.string,
+    score: PropTypes.number,
+    num_comments: PropTypes.number,
+    thumbnail: PropTypes.string,
+  }).isRequired,
 };
 
 export default RedditArticleItem;

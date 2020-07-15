@@ -3,10 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="7a5f89e8-87af-44ca-a09b-43ff2eb5b662" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListEmpty/ListEmpty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListEmpty/ListEmpty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MediaEmbedArticle/MediaEmbedArticle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MediaEmbedArticle/MediaEmbedArticle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Hot/Hot.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Hot/Hot.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Hot/Styles.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/New/New.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/New/New.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/New/Styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Popular/Styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Top/Styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594692876899</updated>
-      <workItem from="1594692882079" duration="38294000" />
+      <workItem from="1594692882079" duration="40383000" />
     </task>
     <servers />
   </component>
@@ -58,6 +69,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594853278315">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594853278315" />
     <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594784754141">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -70,13 +85,13 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594794962173" />
-    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594852567063">
+    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594854577878">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594852567063" />
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594852207952">
+    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594854577878" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594853012565">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594852207952" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594853012565" />
   </component>
 </project>

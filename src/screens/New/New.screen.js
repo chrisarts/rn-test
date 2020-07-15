@@ -5,7 +5,6 @@ import { fetchArticles } from "../../redux/actions/reddit";
 import { navigateTo } from "../../redux/actions/app";
 import RedditArticleItem from "../../components/RedditArticleListItem/RedditArticleListItem";
 import { useNavigation } from "@react-navigation/native";
-import styles from "./Styles";
 import ListEmpty from "../../components/ListEmpty/ListEmpty";
 
 const NewScreen = (props) => {

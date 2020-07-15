@@ -22,6 +22,23 @@ export default StyleSheet.create({
   noImage: {
     width: 80,
     height: 80,
-    backgroundColor: "#E0E0E0"
-  }
+    backgroundColor: "#E0E0E0",
+  },
+  articleDescriptions: {
+    flexDirection: "column",
+    flex: 1,
+  },
+  date: {
+    textAlign: "right",
+    fontSize: 11,
+  },
+  littleDescriptionText: {
+    fontSize: 11,
+  },
+  aboutDescription: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginHorizontal: 10,
+    marginTop: 5,
+  },
 });

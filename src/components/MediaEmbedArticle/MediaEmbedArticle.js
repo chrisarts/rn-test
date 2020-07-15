@@ -1,9 +1,13 @@
 import React from "react";
-import { ScrollView } from "react-native";
+import PropTypes from "prop-types";
 import { WebView } from "react-native-webview";
 
-const MediaEmbedArticle = ({ mediaEmbed, media, url }) => {
+const MediaEmbedArticle = ({ url }) => {
   return <WebView originWhitelist={["*"]} source={{ uri: url }} />;
+};
+
+MediaEmbedArticle.propTypes = {
+  url: PropTypes.string.isRequired,
 };
 
 export default MediaEmbedArticle;
