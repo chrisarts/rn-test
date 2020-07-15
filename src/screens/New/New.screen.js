@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FlatList, View, Text } from "react-native";
+import { FlatList } from "react-native";
 import { useSelector, useDispatch } from "react-redux";
 import { fetchArticles } from "../../redux/actions/reddit";
 import RedditArticleItem from "../../components/RedditArticleListItem/RedditArticleListItem";

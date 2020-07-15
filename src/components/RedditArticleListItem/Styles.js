@@ -19,4 +19,9 @@ export default StyleSheet.create({
     marginLeft: 10,
     flexWrap: "wrap",
   },
+  noImage: {
+    width: 80,
+    height: 80,
+    backgroundColor: "#E0E0E0"
+  }
 });

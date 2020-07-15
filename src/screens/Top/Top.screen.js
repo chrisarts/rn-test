@@ -14,7 +14,6 @@ const TopScreen = () => {
       dispatch(fetchArticles({ category: "top" }));
     }
   });
-  console.log(reddit.top.data.children.length === 0 && !reddit.isLoading);
   const renderItem = ({ item }) => <RedditArticleItem article={item.data} />;
   return (
     <FlatList

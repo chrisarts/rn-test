@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5f89e8-87af-44ca-a09b-43ff2eb5b662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppLoading/AppLoading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ListEmpty/ListEmpty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ListEmpty/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/actions/reddit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/reddit.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/sagas/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/sagas/reddit.saga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/Router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Hot/Hot.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Hot/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/New/New.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/New/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Popular/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Top/Styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/navigation.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/New/New.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/New/New.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +32,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594692876899</updated>
-      <workItem from="1594692882079" duration="29860000" />
+      <workItem from="1594692882079" duration="31384000" />
     </task>
     <servers />
   </component>
@@ -90,10 +72,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594794962173" />
-    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594798428247">
+    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594800625130">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594798428247" />
+    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594800625129" />
     <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594799162003">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

@@ -9,13 +9,11 @@ import styles from "./Styles";
 const PopularScreen = () => {
   const dispatch = useDispatch();
   const reddit = useSelector((state) => state.reddit);
-  console.log("POPULAR: ", reddit);
   useEffect(() => {
     if (reddit.popular.data.children.length === 0 && !reddit.isLoading) {
       dispatch(fetchArticles({ category: "rising" }));
     }
   });
-  console.log(reddit.popular.data.children.length === 0 && !reddit.isLoading);
   const renderItem = ({ item }) => <RedditArticleItem article={item.data} />;
   return (
     <FlatList
