@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a5f89e8-87af-44ca-a09b-43ff2eb5b662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppLoading/AppLoading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListEmpty/ListEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListEmpty/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/RedditArticleListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RedditArticleListItem/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/reddit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/reddit.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/app.saga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/reddit.saga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Article/Article.screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Hot/Hot.screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Hot/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/New/New.screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/New/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Popular/Popular.screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Popular/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Top/Styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Top/Top.screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/navigation.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eerPMyv3ChMBhtcY8Q1AueLslr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/screens/Hot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screens/Hot" />
+      <recent name="$PROJECT_DIR$/src/screens/Popular" />
+      <recent name="$PROJECT_DIR$/src/screens/Top" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a5f89e8-87af-44ca-a09b-43ff2eb5b662" name="Default Changelist" comment="" />
+      <created>1594692876899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594692876899</updated>
+      <workItem from="1594692882079" duration="29860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594784754141">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1594784754141" />
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594705671783">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594705671783" />
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594794962173">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1594794962173" />
+    <state x="643" y="292" width="704" height="522" key="find.popup" timestamp="1594798428247">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="643" y="292" width="704" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594798428247" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594799162003">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1594799162003" />
+  </component>
+</project>
